@@ -15,6 +15,36 @@
       ],
       "@src/*": [
         "src/*"
+      ],
+      "@utils/*": [
+        "src/utils/*"
+      ],
+      "@types/*": [
+        "src/types/*"
+      ],
+      "@services/*": [
+        "src/services/*"
+      ],
+      "@routes/*": [
+        "src/routes/*"
+      ],
+      "@repositories/*": [
+        "src/repositories/*"
+      ],
+      "@models/*": [
+        "src/models/*"
+      ],
+      "@middlewares/*": [
+        "src/middlewares/*"
+      ],
+      "@controllers/*": [
+        "src/controllers/*"
+      ],
+      "@config/*": [
+        "src/config/*"
+      ],
+      "@app/*": [
+        "src/app/*"
       ]
     }
   },

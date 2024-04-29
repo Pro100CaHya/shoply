@@ -65,7 +65,7 @@ model OrderDetail {
 }
 
 enum UserRole {
-  CUSTOMER
+  USER
   ADMIN
   @@map("USER_ROLE")
 }
